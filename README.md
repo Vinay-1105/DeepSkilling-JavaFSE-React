@@ -8,13 +8,13 @@
 - Frontend: React, Angular
 - DevOps: Docker, Kubernetes, Cloud Deployment
 
-**Current Status**: ✅ **Weeks 1-2 Complete** (52/52 Tests Passing)
+**Current Status**: **Weeks 1-2 Complete** (52/52 Tests Passing)
 
 ---
 
 ## Project Progression
 
-### Week 1: Design Patterns, DSA, TDD ✅ (COMPLETE)
+### Week 1: Design Patterns, DSA, TDD (COMPLETE)
 **Date**: 25-June-2026 | **Tests**: 25/25 ✅
 
 **Topics Covered**:
@@ -26,11 +26,11 @@
 - Test-Driven Development (TDD)
 
 **Modules**:
-- ✅ `JUnit-Mockito-SLF4J` - 25 tests passing
+-  `JUnit-Mockito-SLF4J` - 25 tests passing
 
 ---
 
-### Week 2: Spring Core, JPA, Hibernate ✅ (COMPLETE)
+### Week 2: Spring Core, JPA, Hibernate (COMPLETE)
 **Date**: 27-June-2026 | **Tests**: 27/27 ✅
 
 **Topics Covered**:
@@ -48,7 +48,7 @@
 
 ---
 
-### Week 3: Spring REST APIs ⏳ (UPCOMING)
+### Week 3: Spring REST APIs (UPCOMING)
 **Date**: 02-July-2026
 
 **Topics To Cover**:
@@ -61,27 +61,27 @@
 
 ---
 
-### Week 4: SonarQube & Microservices ⏳ (UPCOMING)
+### Week 4: SonarQube & Microservices (UPCOMING)
 **Date**: 09-July-2026
 
 ---
 
-### Week 5: React Fundamentals ⏳ (UPCOMING)
+### Week 5: React Fundamentals (UPCOMING)
 **Date**: 16-July-2026
 
 ---
 
-### Week 6: React Advanced ⏳ (UPCOMING)
+### Week 6: React Advanced (UPCOMING)
 **Date**: 23-July-2026
 
 ---
 
-### Week 7: DevOps, Docker, Cloud, GenAI ⏳ (UPCOMING)
+### Week 7: DevOps, Docker, Cloud, GenAI (UPCOMING)
 **Date**: 28-July-2026
 
 ---
 
-## 📊 Test Results Summary
+## Test Results Summary
 
 | Week | Module | Tests | Status |
 |------|--------|-------|--------|
